@@ -5,4 +5,4 @@
 
 
 [bench]
-104.154.141.43 ansible_ssh_user=root ansible_ssh_private_key_file=~/anskey
+instance-8extservice ansible_ssh_user=root ansible_ssh_private_key_file=~/anskey
